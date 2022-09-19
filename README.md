@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ali.
+- 👋 Hi, I’m `Ali`.
 - 👀 I’m interested in Medicine,Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning `Java`
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ialiyildirim/)
 
 <!---
