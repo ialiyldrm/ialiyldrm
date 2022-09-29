@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">I am a doctor who wants to make a career change. I am learning Java to become a back-end devoloper.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ialiyldrm" alt="ialiyldrm" /></a> </p>
-
 - 🌱 I’m currently learning **Java,Phyton,SQL**
 
 - 📫 How to reach me **dralizzetyldrm@outlook.com**
