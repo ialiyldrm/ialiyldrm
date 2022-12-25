@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am a doctor who wants to make a career change. I am learning Java to become a back-end devoloper.</h3>
+<h3 align="center">I am a doctor who wants to make a career change and become a backend developer. To achieve this goal, I am working in a planned and organized manner. I am adding the projects from my training and my own small projects to github.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialiyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="ialiyldrm" /> </p>
 
