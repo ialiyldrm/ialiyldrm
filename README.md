@@ -12,7 +12,7 @@ developer and produce projects in this field and contribute to the work I do.</h
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ialiyldrm" alt="ialiyldrm" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Phyton,SQL,Spring,Docker**
+- 🌱 I’m currently learning **Java,Go,SQL,Spring,Docker**
 
 - 📫 How to reach me **dralizzetyldrm@outlook.com**
 
